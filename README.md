@@ -16,7 +16,7 @@ Attrition Analysis:
 - Attrition rate by job role.
 
 📊 **Dashboard Preview**
-![HR Analytics Dashboard](Dashboard_preview.png)
+![HR Analytics Dashboard](Dashboard_Preview.png)
 
 
 🛠️ **Tools & Technologies**
